@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Chnaged <div class="header"> to the semantic HTML <header> */
+/* Changed <div class="header"> to the semantic HTML <header> */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,7 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Chnaged <div> to the semantic HTML <nav> */
+/* Changed <div> to the semantic HTML <nav> */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
